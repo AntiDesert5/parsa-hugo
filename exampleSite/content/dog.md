@@ -5,7 +5,7 @@ description = "the dog adoption"
 image = "/images/descarga-9.jpg"
 tags = ["dog"]
 title = "dog"
-type = "post"
+type = "featured"
 
 +++
 ## What is Lorem Ipsum?
