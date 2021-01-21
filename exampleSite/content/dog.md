@@ -2,7 +2,6 @@
 categories = []
 date = 2021-01-21T06:00:00Z
 description = "the dog adoption"
-draft = true
 image = "/images/descarga-9.jpg"
 tags = ["dog"]
 title = "dog"
